@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Nunes!
+<h1 align="center">👋 Olá, eu sou o Bruno Nunes!</h1>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=20&descAlign=62&fontColor=ffffff&descColor=ffffff" alt="Bruno Nunes"/>
@@ -6,15 +6,19 @@
 
 ---
 
-## 🚀 Sobre mim
+<h2 align="center">🚀 Sobre mim</h2>
 
-Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Developer** com foco em soluções modernas, escaláveis e criativas.
-
-- **TypeScript**
-- Construo API's com **NestJS**
-- Frontend dinâmico com **React + Vite** & **Next.js**
-- Pythonista: **FastAPI** & análise de dados (incluindo dados geoespaciais 🌎)
-- Experiência sólida em **AWS**, **Docker** & **Docker Compose**
+<p align="center">
+Sou apaixonado por tecnologia, inovação e desafios!<br>
+Atuo como <b>Fullstack Developer</b> com foco em soluções modernas, escaláveis e criativas.<br><br>
+<ul align="center">
+	<li><b>TypeScript</b></li>
+	<li>Construo API's com <b>NestJS</b></li>
+	<li>Frontend dinâmico com <b>React + Vite</b> & <b>Next.js</b></li>
+	<li>Pythonista: <b>FastAPI</b> & análise de dados (incluindo dados geoespaciais 🌎)</li>
+	<li>Experiência sólida em <b>AWS</b>, <b>Docker</b> & <b>Docker Compose</b></li>
+</ul>
+</p>
 
 ---
 
