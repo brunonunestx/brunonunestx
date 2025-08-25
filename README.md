@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Nunes!
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=20&descAlign=62&fontColor=ffffff&descColor=ffffff" alt="Bruno Nunes"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=50&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=20&descAlign=50&fontColor=ffffff&descColor=ffffff" alt="Bruno Nunes"/>
 </p>
 
 ---
