@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Bruno Nunes!
 
+
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=20&descAlign=62" alt="Bruno Nunes"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=20&descAlign=62&fontColor=ffffff&descColor=ffffff" alt="Bruno Nunes"/>
 </p>
 
 ---
@@ -28,7 +29,6 @@ Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Deve
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </div>
 
 ---
