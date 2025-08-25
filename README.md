@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Nunes!
+# 👋 Hi there, I'm Bruno Nunes!
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00c896&height=180&section=header&text=Bruno%20Nunes&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descSize=18&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff" alt="Bruno Nunes"/>
@@ -6,19 +6,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Developer** com foco em soluções modernas, escaláveis e criativas.
+I'm passionate about technology, innovation and challenges! I work as a **Fullstack Developer** focused on modern, scalable and creative solutions.
 
-- **TypeScript**
-- Construo API's com **NestJS**
-- Frontend dinâmico com **React + Vite** & **Next.js**
-- Pythonista: **FastAPI** & análise de dados (incluindo dados geoespaciais 🌎)
-- Experiência sólida em **AWS**, **Docker** & **Docker Compose**
+- Building APIs with **NestJS**
+- Dynamic frontend with **React + Vite** & **Next.js**
+- Python: **FastAPI** & data analysis (including geospatial data 🌎)
+- Experience with **AWS**, **Docker** & **Docker Compose**
 
 ---
 
-## �️ Minhas Stacks
+## 🛠️ My Tech Stack
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
@@ -30,13 +29,13 @@ Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Deve
 
 ---
 
-## 💡 O que eu faço?
+## 💡 What I do?
 
-- Desenvolvimento de APIs performáticas e seguras
-- WebApps modernos, responsivos e acessíveis
-- Integração e análise de dados (incluindo geoespaciais)
-- Deploys automatizados e infraestrutura em nuvem
-- Soluções criativas para problemas complexos
+- Development of performatic and secure APIs
+- Modern, responsive and accessible WebApps
+- Data integration and analysis (including geospatial)
+- Automated deploys and cloud infrastructure
+- Creative solutions for complex problems
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:007acc&height=120&section=footer"/>
