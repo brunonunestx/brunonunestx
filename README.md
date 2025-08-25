@@ -10,9 +10,9 @@
 
 Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Developer** com foco em soluções modernas, escaláveis e criativas.
 
-- **TypeScript** lover
-- Backend robusto com **NestJS**
-- Frontend dinâmico com **React** & **Next.js**
+- **TypeScript**
+- Construo API's com **NestJS**
+- Frontend dinâmico com **React + Vite** & **Next.js**
 - Pythonista: **FastAPI** & análise de dados (incluindo dados geoespaciais 🌎)
 - Experiência sólida em **AWS**, **Docker** & **Docker Compose**
 
@@ -33,18 +33,10 @@ Sou apaixonado por tecnologia, inovação e desafios! Atuo como **Fullstack Deve
 ## 💡 O que eu faço?
 
 - Desenvolvimento de APIs performáticas e seguras
-- Webapps modernos, responsivos e acessíveis
+- WebApps modernos, responsivos e acessíveis
 - Integração e análise de dados (incluindo geoespaciais)
 - Deploys automatizados e infraestrutura em nuvem
 - Soluções criativas para problemas complexos
-
----
-
-## 🌎 Vamos conversar?
-
-- [LinkedIn](https://www.linkedin.com/in/brunonunestx/)
-- [Portfólio](https://brunonunestx.com)
-- [Email](mailto:brunonunestx@gmail.com)
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:007acc&height=120&section=footer"/>
