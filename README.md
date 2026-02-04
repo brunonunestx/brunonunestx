@@ -12,25 +12,7 @@
 
 I'm a **Fullstack Developer** with a strong focus on **backend engineering**. I design and build APIs, microservices, and distributed systems that are scalable, robust, and high-performance. I care deeply about clean architecture, observability, and delivering software that holds up under real-world pressure.
 
-</div>
-
-```go
-type Developer struct {
-    Name     string
-    Role     string
-    Stack    []string
-    Focus    []string
-}
-
-me := Developer{
-    Name:  "Bruno Nunes",
-    Role:  "Fullstack Developer (Backend-focused)",
-    Stack: []string{"Node.js", "Python", "Golang", "TypeScript", "React"},
-    Focus: []string{"APIs", "Microservices", "System Design", "Cloud Infrastructure"},
-}
-```
-
-<div align="center">
+I'm currently learning about Golang to create more fast and performatic API's 🚀🚀
 
 ---
 
@@ -40,25 +22,26 @@ me := Developer{
   <tr>
     <td align="center" width="140"><strong>Languages</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,python,go" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=ts,js,python" alt="Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><strong>Backend</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" alt="Backend" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="48" alt="Fastify" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><strong>Frontend</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite" alt="Frontend" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><strong>Databases</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="Databases" />
     </td>
   </tr>
   <tr>
@@ -80,28 +63,6 @@ me := Developer{
 | **Scalable systems** | Designed for high throughput and low latency |
 | **CI/CD pipelines** | Automated testing, linting, and deployment |
 | **Cloud infrastructure** | Containerized workloads on AWS |
-
----
-
-### &nbsp; GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunonunestx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=007acc&text_color=c9d1d9"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonunestx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9"/>
-
-<br/>
-
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=brunonunestx&theme=tokyonight&hide_border=true&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896"/>
-
-<br/>
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=brunonunestx&bg_color=0d1117&color=c9d1d9&line=00c896&point=007acc&area=true&area_color=00c896&hide_border=true"/>
-
----
-
-### &nbsp; Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=brunonunestx&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15"/>
 
 ---
 
